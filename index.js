@@ -1,0 +1,10 @@
+const divMain=document.querySelector('div');
+divMain.style.color = 'blue';
+divMain.style.backgroundColor='yellow';
+divMain.style.margin='20px';
+divMain.style.padding = '20px';
+divMain.style.fontSize = '18px';
+divMain.style.fontWeight = 'bold';
+divMain.style.width='300px';
+divMain.style.height='200px';
+divMain.innerText = "Hello, I'm a div!";
